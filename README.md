@@ -8,4 +8,4 @@ I worked in the AI industry for 6 years(until 2022). I was a respected team lead
 
 As a 5-year Yogi, I love to share my knowledge and experience through articles and videos, and 1k+ fans from all social media have followed me. 
 
-As an amateur writer, I have written hundreds of articles on documentary proses, AI product opinions, and book recommendations, almost published in my online blog in China. Two articles have been selected to be published in a famous newspaper journal named "[Guangming Daily](https://www.google.com)" in China.
+As an amateur writer, I have written hundreds of articles on documentary proses, AI product opinions, and book recommendations, almost published in my online blog in China. Two articles have been selected to be published in a famous newspaper journal named "[Guangming Daily](https://en.wikipedia.org/wiki/Guangming_Daily)" in China.
