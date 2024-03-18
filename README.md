@@ -1,4 +1,4 @@
-## 👋 Hey everyone, welcome to my GitHub 👋
+## 👋 Hey, welcome to my GitHub 👋
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/montaneH/MengtingHuang/blob/main/collage.png" height="" /></a>
 
 
