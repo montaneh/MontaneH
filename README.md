@@ -10,7 +10,7 @@ As a 7-year Yogi, I initiated "SomaFlow" Yoga. I love to share my knowledge and 
 
 As an amateur writer, I have written hundreds of articles on documentary prose, AI product opinions, and book recommendations, which I have almost published in my online blog in China. Two articles have been selected to be published in a famous newspaper journal named "[Guangming Daily](https://en.wikipedia.org/wiki/Guangming_Daily)" in China.
 
-As a HCI researcher, my paper won the ## Best Paper Award ## on "[Asian CHI](https://www.asianchi.net/)", which named “[Beyond Fitness: Exploring Yoga Mental Aspects as an Interaction Strategy for Self-practice Yogi]([https://montanehwang.notion.site/beyond-fitness-exploring-yoga-mental-aspects?pvs=4](https://montanehwang.notion.site/Beyond-Fitness-Exploring-Yoga-Mental-Aspects-as-an-Interaction-Strategy-for-Self-practice-Yogi-1d7aa4afc06b80f79c7ee90579e3604d?pvs=4))”!
+As a HCI researcher, my paper won the ## Best Paper Award ## on "[Asian CHI](https://www.asianchi.net/)", which named “[Beyond Fitness: Exploring Yoga Mental Aspects as an Interaction Strategy for Self-practice Yogi](https://montanehwang.notion.site/Beyond-Fitness-Exploring-Yoga-Mental-Aspects-as-an-Interaction-Strategy-for-Self-practice-Yogi-1d7aa4afc06b80f79c7ee90579e3604d?pvs=4)”!
 
 As a Podcast producer, I am making a podast named "MX Hackers[MX骇客志]" in China so far with an AI algorithm wizard who is my old friend.
 
