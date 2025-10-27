@@ -6,7 +6,7 @@
 
 As a Co-founder, AI-Tech Geeker and AI Product Specialist, I co-founded a start-up "[1024AI](https://1024ai.com/)" with other geekers, which is aiming to help youth to have a promising career. Welcome new friends and invite more geekers to join us!
 
-As a 7-year Yogi, I initiated "SomaFlow" Yoga. I love to share my knowledge and experience through articles and videos, and 1.5k+ fans from all social media have followed me. 
+As a 10-year Yogi, I initiated "SomaFlow" Yoga. I love to share my knowledge and experience through articles and videos, and 1.5k+ fans from all social media have followed me. 
 
 As an amateur writer, I have written hundreds of articles on documentary prose, AI product opinions, and book recommendations, which I have almost published in my online blog in China. Two articles have been selected to be published in a famous newspaper journal named "[Guangming Daily](https://en.wikipedia.org/wiki/Guangming_Daily)" in China.
 
