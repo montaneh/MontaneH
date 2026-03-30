@@ -12,7 +12,7 @@ As an amateur writer, I have written hundreds of articles on documentary prose, 
 
 As an HCI researcher, my paper won the ## Best Paper Award ## on "[Asian CHI](https://www.asianchi.net/)", which was named “[Beyond Fitness: Exploring Yoga Mental Aspects as an Interaction Strategy for Self-practice Yogi](https://montanehwang.notion.site/Beyond-Fitness-Exploring-Yoga-Mental-Aspects-as-an-Interaction-Strategy-for-Self-practice-Yogi-1d7aa4afc06b80f79c7ee90579e3604d?pvs=4)”!
 
-As a Podcast producer, I am making a podcast named "MX Hackers[MX骇客志](https://podcasts.apple.com/us/podcast/mx%E9%AA%87%E5%AE%A2%E5%BF%97/id1820846000)" in China so far with an AI algorithm wizard who is my old friend.
+As a Podcast producer, I am making a podcast named "[MX骇客志(MX Hackers)](https://podcasts.apple.com/us/podcast/mx%E9%AA%87%E5%AE%A2%E5%BF%97/id1820846000)" in China so far with an AI algorithm wizard who is my old friend.
 
 I worked in the AI industry for 8 years. I was a respected team leader and product manager in prominent AI companies, having led, organized, and mentored numerous AI product designs and businesses.  
 Years ago, I quit my promising job to pursue academic knowledge in HCI technology in the Department of Computer Science at the University of Copenhagen. My main interests are all related to Brain-Computer Interactions, specifically in Affective Interaction, Human Brain/Body Interface, Fabrication, Shape-Changing Interface, Sensing \& Computing, XR/Human AI Interaction, Body-centered Design, and Wearables. 
